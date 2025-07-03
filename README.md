@@ -1,8 +1,10 @@
 <h1 align="center"> Hello World 🌎, abclara aqui! </h1>
-🇧🇷
+
 💻 Sou Designer UI/UX e Desenvolvedora Front End <br>
 👩‍🎓Formada em Design Gráfico pelo IFPE e atualmente estudando Ciência da Computação
-🇺🇸
+ </div>
+ <br>
+
 💻 I'm UI/UX Designer e Front End Developer <br>
 👩‍🎓Graduated in Graphic Design from IFPE and currently studying Computer Science
 
