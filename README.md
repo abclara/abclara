@@ -23,9 +23,9 @@ Sou Designer UI/UX, Analista de Dados e Desenvolvedora Front-End <br> <sub>EN I'
 <img  alt="Clara-Premiere" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"> &nbsp;
   
 
-**Dados | Data **<br>
-![SQL](https://img.shields.io/badge/SQL-1D9E75?style=flat-square)
-![Power BI](https://img.shields.io/badge/Power%20BI-1D9E75?style=flat-square)
+**Dados | Data**<br>
+![SQL](https://img.shields.io/badge/SQL-1D9E75?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-1D9E75?style=for-the-badge)
 
 **Programação | Programming**<br>
  <img  alt="Clara-html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;
@@ -34,7 +34,7 @@ Sou Designer UI/UX, Analista de Dados e Desenvolvedora Front-End <br> <sub>EN I'
  <img  alt="Clara-Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">&nbsp;
  <img  alt="Clara-Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">&nbsp;
 
-**Redes Sociais | Social **<br>
+**Redes Sociais | Social**<br>
 <a href="https://www.linkedin.com/in/abclara/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.behance.net/abclara" target="_blank"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
     </td>
